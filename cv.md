@@ -6,7 +6,7 @@
 ## Summary:
 In particular, I like to create something out of nothing. Programming tends to engage in searching and reading documentation. For me, EPAM is a good company to start my career.
 ## Skills:
-The last year I’m involved in web technologies and studied programming languages such as JS, HTML, CSS, PHP at a basic level.
+The last year I’m involved in web technologies and studied programming languages such as JS, HTML, CSS at a basic level.
 ## Education:
 Studied at Samara State Aerospace University.
 ## English: 
